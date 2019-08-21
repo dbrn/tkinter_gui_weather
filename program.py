@@ -20,7 +20,7 @@ def get_weather(city, key):
                     + str(humidity)
 
 
-API_KEY = r"a3c2cb422a712bc7079ed0d29b7e8f3a"
+API_KEY = r""
 HEIGHT = 400
 WIDTH = 300
 
